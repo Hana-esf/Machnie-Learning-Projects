@@ -1,0 +1,12 @@
+# Virtual environments
+venv/
+.venv/
+env/
+tf-env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
